@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: BAR 2022
 description: NDSS Workshop on Binary Analysis Research (BAR 2022)
+baseurl: https://bar-2022.github.io/
