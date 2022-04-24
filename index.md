@@ -4,12 +4,12 @@ The 2022 NDSS workshop on Binary Analysis Research (BAR '22) is Sunday, April 24
 
 | Title | Preprint | Artifacts |
 | --- | --- | --- |
-| DITTANY: Strength-Based Dynamic Information Flow Analysis Tool for x86 Binaries | | |
-| FitM: Binary-Only Coverage-GuidedFuzzing for Stateful Network Protocols | | 
-| "30 Years into Scientific Binary Decompilation: What We Have Achieved and What We Need to Do Next" | | | 
-| Detecting Obfuscated Function Clones in Binaries using Machine Learning | | 
-| Beyond the C: Retargetable Decompilation using Neural Machine Translation | | 
-| The Inconvenient Truths of Ground Truth for Binary Analysis | | 
+| DITTANY: Strength-Based Dynamic Information Flow Analysis Tool for x86 Binaries | [{{ site.baseurl}}/assets/bar2022-paper2.pdf]PDF | |
+| FitM: Binary-Only Coverage-GuidedFuzzing for Stateful Network Protocols | PDF | 
+| "30 Years into Scientific Binary Decompilation: What We Have Achieved and What We Need to Do Next" | PDF | | 
+| Detecting Obfuscated Function Clones in Binaries using Machine Learning | PDF | 
+| Beyond the C: Retargetable Decompilation using Neural Machine Translation | PDF | 
+| The Inconvenient Truths of Ground Truth for Binary Analysis | PDF | 
 
 ### Schedule and Program
 
