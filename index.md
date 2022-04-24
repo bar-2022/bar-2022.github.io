@@ -8,7 +8,7 @@ The 2022 NDSS workshop on Binary Analysis Research (BAR '22) is Sunday, April 24
 | FitM: Binary-Only Coverage-GuidedFuzzing for Stateful Network Protocols | [PDF](assets/bar2022-final8.pdf) | 
 | Detecting Obfuscated Function Clones in Binaries using Machine Learning | [PDF](assets/bar2022-final5.pdf) | 
 | Beyond the C: Retargetable Decompilation using Neural Machine Translation | [PDF](assets/bar2022-paper9.pdf) | 
-| The Inconvenient Truths of Ground Truth for Binary Analysis | [PDF](https://github.com/bar-2022/bar-2022.github.io/blob/main/assets/bar2022-final10.pdf) | 
+| The Inconvenient Truths of Ground Truth for Binary Analysis | [PDF](/assets/bar2022-final10.pdf) | 
 
 ### Schedule and Program
 
