@@ -4,7 +4,7 @@ The 2022 NDSS workshop on Binary Analysis Research (BAR '22) is Sunday, April 24
 
 | Title | Preprint | Artifacts |
 | --- | --- | --- |
-| DITTANY: Strength-Based Dynamic Information Flow Analysis Tool for x86 Binaries | [{{ site.baseurl}}/assets/bar2022-paper2.pdf]PDF | |
+| DITTANY: Strength-Based Dynamic Information Flow Analysis Tool for x86 Binaries | [/assets/bar2022-paper2.pdf]PDF | |
 | FitM: Binary-Only Coverage-GuidedFuzzing for Stateful Network Protocols | PDF | 
 | "30 Years into Scientific Binary Decompilation: What We Have Achieved and What We Need to Do Next" | PDF | | 
 | Detecting Obfuscated Function Clones in Binaries using Machine Learning | PDF | 
